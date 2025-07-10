@@ -73,7 +73,7 @@ Contribuições são bem-vindas! Se você tiver ideias para melhorias, novas fun
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 ## 📧 Contato
 
